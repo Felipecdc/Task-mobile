@@ -25,7 +25,7 @@ Utilizamos as seguintes tecnologias para desenvolver este projeto:
 ## Demonstração
 
 <div align="flex-start">
-  <img src="https://github.com/Felipecdc/Calculadora-com-react-native/blob/main/202406191824_1_.gif" width="450">
+  <img src="https://github.com/Felipecdc/Task-mobile/blob/main/202406191824_1.gif" width="450">
 </div>
 
 
